@@ -1,0 +1,16 @@
+# Ignore build folder
+/build/
+
+# Ignore binaries
+*.exe
+*.out
+mygit
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Mac OS junk
+.DS_Store
