@@ -23,3 +23,5 @@ make
 ```bash
 git add .
 git commit -m "Initial commit: basic init command using C++"
+
+It's still in WIP so if you wanna collaborate fork the repository or star it ! :)
