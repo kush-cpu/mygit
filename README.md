@@ -2,7 +2,7 @@
 
 ## 📸 GUI Screenshot
 
-![GUI Screenshot](./public/placeholder.jiff) 
+![GUI Screenshot](./public/placeholder.jpg) 
 
 ## 📌 About the Project
 
