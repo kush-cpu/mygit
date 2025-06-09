@@ -82,12 +82,6 @@ The GUI provides a user-friendly interface to interact with the core:
 
 ---
 
-## 📸 GUI Screenshot
-
-> *Placeholder for screenshot — add once available.*
-
----
-
 ## ⚙️ Getting Started
 
 ### ✅ Prerequisites
