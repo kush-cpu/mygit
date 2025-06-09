@@ -1,5 +1,9 @@
 # 🚀 MyGit — A Minimal Git-like Version Control CLI Tool in C++
 
+## 📸 GUI Screenshot
+
+![GUI Screenshot](./public/placeholder.jiff) 
+
 ## 📌 About the Project
 
 **MyGit** is a custom-built Version Control System (VCS) designed to offer efficient and reliable code and file change management. Drawing inspiration from established VCS tools like Git, this system is engineered from scratch to explore source control mechanisms and ensure high performance.
